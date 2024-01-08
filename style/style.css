@@ -74,7 +74,7 @@ body{
  /* welcome section style */
 
  .welcome-container{
-    background-image: url('../img/vectorrr.png');
+    background-image: url('../img/vector.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
@@ -238,7 +238,7 @@ margin-bottom: -100px;
 /* discount section style */
 
 .discount{
-    background-image: url(/img/fectangle\ 2.png), url(/img/rectangle\ 1.png);
+    background-image: url('../img/rectangle-2.png'), url('../img/rectangle-1.png');
     background-repeat: no-repeat;
     background-size: 100% ,30%;
     background-position: bottom right, center right;
