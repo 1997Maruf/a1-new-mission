@@ -18,7 +18,7 @@ body{
 
 /* header section style */
 .header-container{
-   background-image: url('/img/banner\ image.png');
+   background-image: url('../img/banner-image.png');
    background-repeat: no-repeat;
    background-size: cover;
    margin-left: 150px;
@@ -27,7 +27,6 @@ body{
    padding-top: 200px;
    padding-bottom: 230px;
    text-align: center;
-   background-color: ;
     border-radius: 16px;
  
 }
@@ -75,7 +74,7 @@ body{
  /* welcome section style */
 
  .welcome-container{
-    background-image: url(/img/vectorrr.png);
+    background-image: url('../img/vectorrr.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
