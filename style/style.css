@@ -362,11 +362,12 @@ margin-left: -25px;
 
 /* footer section style */
 footer{
+    margin-top: 120px;
     background: #070211;
 }
 .footer-section{
     display: flex;
-   
+    border-radius: 20px;
     gap: 600px;
     padding-top: 120px;
 }
